@@ -15,7 +15,7 @@ Future features include a persistent scoreboard, time-randomized obstacles, and 
 
 ## Technologies Used
 + React 16.12.0
-+ Node.js 12
++ Node.js 12.13.1
 + JavaScript ES5+
 + HTML5
 + CSS3
